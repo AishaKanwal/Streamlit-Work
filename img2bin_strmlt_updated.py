@@ -60,12 +60,6 @@ def save_binary(byte_array, directory_path, file_name):
 if __name__ == "__main__":
     main()
 
-    
-# run command in anaconda prompt to run the code.
-# first open the path (in this case, the path is: 
-# (base) C:\Users\Aisha Kanwal\OneDrive - University of Strathclyde\DMD_Aisha)
-# streamlit run img2bin_strmlt.py
-
 ### --------------------------------------------
 ### --------------------------------------------
 ### --------------------------------------------
